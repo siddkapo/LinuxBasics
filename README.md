@@ -1,2 +1,2 @@
 # LinuxBasics
-Learning basics of linux
+Contains the basics of Linux that I've learnt
